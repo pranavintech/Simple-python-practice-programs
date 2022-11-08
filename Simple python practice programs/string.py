@@ -1,0 +1,6 @@
+a=('Hello I am new at python')
+print('line=',a)
+print('in uppercase=',a.upper())
+print('in lowercase=',a.lower())
+print('first character=',a[0])
+print('last character=',a[23])
